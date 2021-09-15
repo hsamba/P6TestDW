@@ -5,9 +5,20 @@
 
 
 
-void gregorAwesome()
-{
-  while(1){
-    printf("Gregor is awesome")
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//void MyFunction(int a, int b) {
+  x = a + b;
 }
