@@ -5,9 +5,9 @@
 
 
 
-void gregorAwsome()
+void gregorAwesome()
 {
   while(1){
-    printf("Gregor is awsome")
+    printf("Gregor is awesome")
   }
 }
