@@ -1,1 +1,13 @@
 //Mr Wright was here 
+
+
+
+
+
+
+void gregorAwsome()
+{
+  while(1){
+    printf("Gregor is awsome")
+  }
+}
