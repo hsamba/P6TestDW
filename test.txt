@@ -2,23 +2,17 @@
 
 
 
+void Astro!()
+{
+while(1) {
+    printf("I wanted my username to be Astro! but i'm stuck with Astroknotts");
+}
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//void MyFunction(int a, int b) {
-  x = a + b;
+void gregorAwsome()
+{
+  while(1){
+    printf("Gregor is awsome")
+  }
 }
