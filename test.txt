@@ -2,12 +2,7 @@
 
 
 
-void Astro!()
-{
-while(1) {
-    printf("I wanted my username to be Astro! but i'm stuck with Astroknotts");
-}
-}
+
 
 
 void gregorAwsome()
@@ -16,4 +11,3 @@ void gregorAwsome()
     printf("Gregor is awsome")
   }
 }
->>>>>>> 27474b4be5b63ea53ae0c247ccfd9884dc67b89a
