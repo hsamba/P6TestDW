@@ -1,7 +1,16 @@
 //Mr Wright was here
 
 
+void giveAnEveryoneAnA(int realGrade){
 
+if (realGrade<100){
+realGrade=100;
+}
+
+else {
+realGrade=realGrade;
+}
+}
 
 
 
