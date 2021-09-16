@@ -21,10 +21,6 @@ void gregorAwsome()
   }
 }
 
-int sumFirstN(int n) { //Done by Sam, sum of first n integers
-  int s = 0;
-  for(int i =1; i < n+1; i ++) {
-  s += i;
-  }
-  return s;
+void aplusb(int a, int b) { //Alex's function
+   int x = a+b;
 }
