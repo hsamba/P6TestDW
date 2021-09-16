@@ -21,6 +21,50 @@ void gregorAwsome()
   }
 }
 
-void aplusb(int a, int b) { //Alex's function
-   int x = a+b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void proot(int x){
+  int y=x**2+2x+1;
+  printf(y);
 }
+
+proot(1);
