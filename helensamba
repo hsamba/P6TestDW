@@ -1,0 +1,28 @@
+//Mr Wright was here
+
+
+void giveAnEveryoneAnA(int realGrade){
+
+if (realGrade<100){
+realGrade=100;
+}
+
+else {
+realGrade=realGrade;
+}
+}
+
+void helen(){
+  printf("yes");
+}
+
+void gregorAwsome()
+{
+  while(1){
+    printf("Gregor is awsome")
+  }
+}
+
+void aplusb(int a, int b) { //Alex's function
+   int x = a+b;
+}
