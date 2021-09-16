@@ -20,10 +20,3 @@ void gregorAwsome()
     printf("Gregor is awsome")
   }
 }
-
-String codyFunction(String x) {
-  if(x == "") {
-    return " ";
-  }
-  return x;
-}
